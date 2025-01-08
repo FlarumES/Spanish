@@ -2,6 +2,22 @@ CHANGELOG
 =========
 
 
+1.12.0 (XXXX-XX-XX)
+-------------------
+
+**Added support for new extensions**:
+
+* [`ianm/syndication`](https://github.com/imorland/syndication)
+
+
+**Updated translations for extensions**:
+
+* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth)
+
+
+All changes: [1.11.0...1.12.0](https://github.com/flarum-lang/spanish/compare/1.11.0...1.12.0).
+
+
 1.11.0 (2024-12-25)
 -------------------
 
